@@ -1,8 +1,8 @@
 # CSE464--MCQ Corrector
 
-This repo contains the solution to the MCQ Corrector Kaggle Competition. The competition is about designing an image processing pipeline to automatically correct the scanned documents for students answers. You can find this competition right [here](https://www.kaggle.com/c/cse-464-mcqcorrector).
+This repo contains the solution to the MCQ Corrector Kaggle Competition. The competition is about designing an image processing pipeline to automatically correct the scanned documents for students answers. You can find the competition right [here](https://www.kaggle.com/c/cse-464-mcqcorrector).
 
-In this competition, there were 52 teams competing. And my team's solution ranked the first.
+In this competition, there were 52 teams competing. And my team's solution ranked the first with only one entry. So, that's a big deal ^_^.
 
 ![The Competition Leaderboard](http://www.mediafire.com/convkey/85e1/f00rd2wzejcl33ezg.jpg)
 
